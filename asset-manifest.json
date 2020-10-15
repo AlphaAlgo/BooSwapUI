@@ -4,8 +4,8 @@
     "static/js/0.454e5a78.chunk.js.map": "/BooSwapUI/static/js/0.454e5a78.chunk.js.map",
     "static/js/1.ab9e1769.chunk.js": "/BooSwapUI/static/js/1.ab9e1769.chunk.js",
     "static/js/1.ab9e1769.chunk.js.map": "/BooSwapUI/static/js/1.ab9e1769.chunk.js.map",
-    "main.js": "/BooSwapUI/static/js/main.d9e60cf5.chunk.js",
-    "main.js.map": "/BooSwapUI/static/js/main.d9e60cf5.chunk.js.map",
+    "main.js": "/BooSwapUI/static/js/main.822cd670.chunk.js",
+    "main.js.map": "/BooSwapUI/static/js/main.822cd670.chunk.js.map",
     "runtime-main.js": "/BooSwapUI/static/js/runtime-main.f4e0e5ba.js",
     "runtime-main.js.map": "/BooSwapUI/static/js/runtime-main.f4e0e5ba.js.map",
     "static/css/4.6307e201.chunk.css": "/BooSwapUI/static/css/4.6307e201.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.fccb17af.chunk.js": "/BooSwapUI/static/js/9.fccb17af.chunk.js",
     "static/js/9.fccb17af.chunk.js.map": "/BooSwapUI/static/js/9.fccb17af.chunk.js.map",
     "index.html": "/BooSwapUI/index.html",
-    "precache-manifest.3812aa36610459187413c2b56e80cf08.js": "/BooSwapUI/precache-manifest.3812aa36610459187413c2b56e80cf08.js",
+    "precache-manifest.5fea004dbf9e1c33148f683e9ce11c1d.js": "/BooSwapUI/precache-manifest.5fea004dbf9e1c33148f683e9ce11c1d.js",
     "service-worker.js": "/BooSwapUI/service-worker.js",
     "static/css/4.6307e201.chunk.css.map": "/BooSwapUI/static/css/4.6307e201.chunk.css.map",
     "static/js/4.e2c6e3de.chunk.js.LICENSE.txt": "/BooSwapUI/static/js/4.e2c6e3de.chunk.js.LICENSE.txt",
@@ -63,6 +63,6 @@
     "static/js/runtime-main.f4e0e5ba.js",
     "static/css/4.6307e201.chunk.css",
     "static/js/4.e2c6e3de.chunk.js",
-    "static/js/main.d9e60cf5.chunk.js"
+    "static/js/main.822cd670.chunk.js"
   ]
 }
