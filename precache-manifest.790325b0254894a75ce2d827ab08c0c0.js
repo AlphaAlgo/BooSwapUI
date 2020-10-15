@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d92c81f4193129d0cd7648679ca345ee",
+    "revision": "c43444a402760612da2cbc56d4b02434",
     "url": "/BooSwapUI/index.html"
   },
   {
