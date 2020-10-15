@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe988f652d34763013a13b038044591d",
+    "revision": "c34f68e33979b47651b1442080134207",
     "url": "/BooSwapUI/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BooSwapUI/static/js/9.fccb17af.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "baceab49492b35565db5",
-    "url": "/BooSwapUI/static/js/main.e12974c8.chunk.js"
+    "revision": "68c187b8bb7bcae4c3cc",
+    "url": "/BooSwapUI/static/js/main.d9e60cf5.chunk.js"
   },
   {
     "revision": "55a38dd9f60c0747c9fb",
