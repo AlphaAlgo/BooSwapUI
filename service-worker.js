@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BooSwapUI/precache-manifest.5fea004dbf9e1c33148f683e9ce11c1d.js"
+  "/BooSwapUI/precache-manifest.c141fa64da816b71058fcfb1495c2e43.js"
 );
 
 self.addEventListener('message', (event) => {
