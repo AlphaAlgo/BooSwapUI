@@ -9,7 +9,6 @@ import { useModalOpen, useToggleModal } from '../../state/application/hooks'
 
 import { ExternalLink } from '../../theme'
 
-
 const StyledMenuIcon = styled(MenuIcon)`
   path {
     stroke: ${({ theme }) => theme.text1};
@@ -88,13 +87,10 @@ const MenuItem = styled(ExternalLink)`
 const CODE_LINK = 'https://booswap.com/'
 
 export default function Menu() {
-
-
   const node = useRef<HTMLDivElement>()
   const open = useModalOpen(ApplicationModal.MENU)
   const toggle = useToggleModal(ApplicationModal.MENU)
   useOnClickOutside(node, open ? toggle : undefined)
-
 
   return (
     // https://github.com/DefinitelyTyped/DefinitelyTyped/issues/30451
@@ -125,7 +121,6 @@ export default function Menu() {
             <PieChart size={14} />
             Analytics
           </MenuItem>
-
         </MenuFlyout>
       )}
     </StyledMenu>

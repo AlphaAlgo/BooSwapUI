@@ -226,7 +226,6 @@ const StyledNavLink = styled(NavLink).attrs({
   }
 `
 
-
 const NETWORK_LABELS: { [chainId in ChainId]?: string } = {
   [ChainId.RINKEBY]: 'Rinkeby',
   [ChainId.ROPSTEN]: 'Ropsten',
@@ -284,7 +283,6 @@ export default function Header() {
           >
             {t('pool')}
           </StyledNavLink>
-
         </HeaderLinks>
       </HeaderRow>
       <HeaderControls>
